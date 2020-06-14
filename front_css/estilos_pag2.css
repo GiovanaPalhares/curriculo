@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(243, 219, 187);
+    text-align: center;
+    height: 5vh;
+    
+
+
+
+}
+
+.titulo{
+    padding: 10vh;
+    
+}
+
+.texto {
+    vertical-align: center;
+    border-width: medium;
+    border-style: solid;
+    border-color: pink;
+}
+
+.texto {
+    color: #8B4513
+}
